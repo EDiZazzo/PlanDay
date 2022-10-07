@@ -1,11 +1,8 @@
-using Microsoft.Data.Sqlite;
-using Moq;
 using NUnit.Framework;
 using Planday.Schedule.Infrastructure.Providers;
 using Planday.Schedule.Infrastructure.Queries;
 using Planday.Schedule.Infrastructure.Services;
 using Planday.Schedule.Infrastructure.Services.Commands;
-using Planday.Schedule.Queries;
 using System;
 using System.Threading.Tasks;
 

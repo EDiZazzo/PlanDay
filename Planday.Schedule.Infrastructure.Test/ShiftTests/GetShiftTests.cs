@@ -1,5 +1,3 @@
-using Microsoft.Data.Sqlite;
-using Moq;
 using NUnit.Framework;
 using Planday.Schedule.Infrastructure.Providers;
 using Planday.Schedule.Infrastructure.Queries;
